@@ -16,12 +16,14 @@ Ela já **preparou e conectou** diversos devs com o **mercado de trabalho** no d
 
 Este repositório contém os notebooks com as resoluções dos desafios do programa **AceleraDev Data Science**.
 
-O primeiro desafio foi relacionado a [Pré-processamento de dados em Python](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-2/main.ipynb)
+- O primeiro desafio foi relacionado a [Pré-processamento de dados em Python](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-2).
 
-O segundo desafio envolveu [Análise Exploratória de Dados](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-3/main.ipynb)
+- O segundo desafio envolveu [Análise Exploratória de Dados](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-3).
 
-O terceiro desafio foi relacionado a [Funções de probabilidade](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-4/main.ipynb)
+- O terceiro desafio foi relacionado a [Funções de probabilidade](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-4).
 
-O quarto desafio também envolveu [Funções de probabilidade](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-5/main.ipynb)
+- O quarto desafio também envolveu [Funções de probabilidade](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-5).
 
-O quinto desafio foi de [Redução de dimensionalidade e seleção de features](https://github.com/Trsouza/Data-Science-Codenation/blob/master/modulo-6/main.ipynb)
+- O quinto desafio foi de [Redução de dimensionalidade e seleção de features](https://github.com/Trsouza/Data-Science-Codenation/tree/master/modulo-6).
+
+- O sexto desafio foi referente a [Engenharia de feature](https://github.com/Trsouza/Data-Science-Codenation/tree/master/modulo-7).
