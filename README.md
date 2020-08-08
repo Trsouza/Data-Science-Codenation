@@ -27,3 +27,5 @@ Este repositório contém os notebooks com as resoluções dos desafios do progr
 - O quinto desafio foi de [Redução de dimensionalidade e seleção de features](https://github.com/Trsouza/Data-Science-Codenation/tree/master/modulo-6).
 
 - O sexto desafio foi referente a [Engenharia de feature](https://github.com/Trsouza/Data-Science-Codenation/tree/master/modulo-7).
+
+- O sétimo modelo foi de [Regressão](https://github.com/Trsouza/Data-Science-Codenation/tree/master/modulo-8)
